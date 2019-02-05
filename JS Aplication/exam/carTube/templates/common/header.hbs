@@ -1,0 +1,12 @@
+<nav>
+    <a class="active" href="#/home">Home</a>
+    {{#if username}}
+    <a href="#/allList">All Listings</a>
+    <a href="#/myList">My Listings</a>
+    <a href="#/create">Create Listing</a>
+    <div id="profile">
+        <a>Welcome {{username}}</a>
+        <a href="#/logout">logout</a>
+    </div>
+    {{/if}}
+</nav>

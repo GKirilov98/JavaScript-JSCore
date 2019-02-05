@@ -1,0 +1,633 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="9c852292-c256-40b8-a962-01334a3844a8" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/.tmp/" />
+    <ignored path="$PROJECT_DIR$/temp/" />
+    <ignored path="$PROJECT_DIR$/tmp/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/01 exercise/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="340">
+              <caret line="20" column="88" selection-start-line="20" selection-start-column="88" selection-end-line="20" selection-end-column="88" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/01 exercise/app.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="384">
+              <caret line="35" column="57" selection-start-line="35" selection-start-column="57" selection-end-line="35" selection-end-column="57" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/01 exercise/demo.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="17">
+              <caret line="1" column="13" selection-start-line="1" selection-start-column="13" selection-end-line="1" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/04. exercise/04. Public Transport.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="255">
+              <caret line="43" column="51" selection-start-line="43" selection-start-column="27" selection-end-line="43" selection-end-column="51" />
+              <folding>
+                <element signature="n#!!block;n#addVehicle#0;n#PublicTransportTable#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/solution.js" />
+        <option value="$PROJECT_DIR$/02. CalcCass.js" />
+        <option value="$PROJECT_DIR$/../Class PROTOTYPE CHAIN/04. Elemelons.js" />
+        <option value="$PROJECT_DIR$/03. Book Collection.js" />
+        <option value="$PROJECT_DIR$/01. Holiday Destinations.js" />
+        <option value="$PROJECT_DIR$/holidayDestination.js" />
+        <option value="$PROJECT_DIR$/stickyNote.js" />
+        <option value="$PROJECT_DIR$/01. Sticky Note.html" />
+        <option value="$PROJECT_DIR$/01. Holiday Destination.html" />
+        <option value="$PROJECT_DIR$/04. MakeReservation.js" />
+        <option value="$PROJECT_DIR$/04. MakeReservation.html" />
+        <option value="$PROJECT_DIR$/makeReservations.js" />
+        <option value="$PROJECT_DIR$/02.HolidayPackage.js" />
+        <option value="$PROJECT_DIR$/02.  TODO.js" />
+        <option value="$PROJECT_DIR$/03. TODO.js" />
+        <option value="$PROJECT_DIR$/02.  Calculator Test.js" />
+        <option value="$PROJECT_DIR$/03.Vacationer.js" />
+        <option value="$PROJECT_DIR$/03. BookCollection.js" />
+        <option value="$PROJECT_DIR$/04. Online Shop.html" />
+        <option value="$PROJECT_DIR$/onlineShop.js" />
+        <option value="$PROJECT_DIR$/01 exercise/01. Bus Route.html" />
+        <option value="$PROJECT_DIR$/04. exercise/4. Public Transport.js" />
+        <option value="$PROJECT_DIR$/04. exercise/04. Public Transport.html" />
+        <option value="$PROJECT_DIR$/04. exercise/publicTransport.js" />
+        <option value="$PROJECT_DIR$/02. Subscription Card.js" />
+        <option value="$PROJECT_DIR$/03. Line Manager.js" />
+        <option value="$PROJECT_DIR$/04. exercise/04. Public Transport.js" />
+        <option value="$PROJECT_DIR$/01 exercise/01. Restaurant Bill.js" />
+        <option value="$PROJECT_DIR$/01 exercise/01. Restaurant Bill.html" />
+        <option value="$PROJECT_DIR$/02. Payment Package.js" />
+        <option value="$PROJECT_DIR$/04. exercise/solution.js" />
+        <option value="$PROJECT_DIR$/04. exercise/04. Payment Manager.html" />
+        <option value="$PROJECT_DIR$/04. exercise/04. Payment Manager.js" />
+        <option value="$PROJECT_DIR$/03. Payment Processor.js" />
+        <option value="$PROJECT_DIR$/01 exercise/01. Sort Table.html" />
+        <option value="$USER_HOME$/AppData/Local/Temp/Rar$DIa4284.38342/test.012.in.js" />
+        <option value="$PROJECT_DIR$/03. Repository.js" />
+        <option value="$PROJECT_DIR$/01 exercise/01. Form Acceptance.html" />
+        <option value="$USER_HOME$/Desktop/01. Form Acceptance/Skeleton/app.js" />
+        <option value="$PROJECT_DIR$/02. Softunify.js" />
+        <option value="$PROJECT_DIR$/01 exercise/stickyNote.js" />
+        <option value="$PROJECT_DIR$/01 exercise/index.html" />
+        <option value="$PROJECT_DIR$/01 exercise/app.html" />
+        <option value="$USER_HOME$/Desktop/04. Real Estate Agency_Ресурси/Skeleton/app.js" />
+        <option value="$PROJECT_DIR$/03. Vacation.js" />
+        <option value="$PROJECT_DIR$/01 exercise/demo.js" />
+        <option value="$PROJECT_DIR$/01 exercise/app.js" />
+      </list>
+    </option>
+  </component>
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <other-services-enabled>true</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="330" />
+    <option name="y" value="147" />
+    <option name="width" value="1224" />
+    <option name="height" value="930" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State />
+          <State>
+            <id>GeneralJavaScript</id>
+          </State>
+          <State>
+            <id>JavaScript</id>
+          </State>
+          <State>
+            <id>JavaScript validity issuesJavaScript</id>
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>BadExpressionStatementJS</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="exams" type="b2602c69:ProjectViewProjectNode" />
+              <item name="exams" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="exams" type="b2602c69:ProjectViewProjectNode" />
+              <item name="exams" type="462c0819:PsiDirectoryNode" />
+              <item name="01 exercise" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="exams" type="b2602c69:ProjectViewProjectNode" />
+              <item name="exams" type="462c0819:PsiDirectoryNode" />
+              <item name="04. exercise" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Class PROTOTYPE CHAIN/04. Elemelons.js" />
+    <property name="nodejs.mocha.mocha_node_package_dir" value="$USER_HOME$/AppData/Roaming/npm/node_modules/mocha" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="preferences.sourceCode" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Projects\JS Advanced\exams\04. exercise" />
+      <recent name="D:\Projects\JS Advanced\exams\01 exercise" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Node.js.demo.js">
+    <configuration name="02. Softunify.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="02. Softunify.js" working-dir="$PROJECT_DIR$">
+      <method v="2" />
+    </configuration>
+    <configuration name="03. Payment Processor.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="03. Payment Processor.js" working-dir="$PROJECT_DIR$">
+      <method v="2" />
+    </configuration>
+    <configuration name="03. Repository.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="03. Repository.js" working-dir="$PROJECT_DIR$">
+      <method v="2" />
+    </configuration>
+    <configuration name="03. Vacation.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="03. Vacation.js" working-dir="$PROJECT_DIR$">
+      <method v="2" />
+    </configuration>
+    <configuration name="demo.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="demo.js" working-dir="$PROJECT_DIR$/01 exercise">
+      <method v="2" />
+    </configuration>
+    <configuration name="Mocha RUN" type="mocha-javascript-test-runner">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <working-directory>$PROJECT_DIR$</working-directory>
+      <pass-parent-env>true</pass-parent-env>
+      <ui>bdd</ui>
+      <extra-mocha-options />
+      <test-kind>DIRECTORY</test-kind>
+      <test-directory>$PROJECT_DIR$</test-directory>
+      <recursive>false</recursive>
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Mocha.Mocha RUN" />
+      <item itemvalue="Node.js.03. Payment Processor.js" />
+      <item itemvalue="Node.js.03. Repository.js" />
+      <item itemvalue="Node.js.02. Softunify.js" />
+      <item itemvalue="Node.js.03. Vacation.js" />
+      <item itemvalue="Node.js.demo.js" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Node.js.demo.js" />
+        <item itemvalue="Node.js.03. Vacation.js" />
+        <item itemvalue="Node.js.02. Softunify.js" />
+        <item itemvalue="Node.js.03. Repository.js" />
+        <item itemvalue="Node.js.03. Payment Processor.js" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9c852292-c256-40b8-a962-01334a3844a8" name="Default Changelist" comment="" />
+      <created>1542099782050</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1542099782050</updated>
+      <workItem from="1542099784940" duration="22963000" />
+      <workItem from="1542213886884" duration="54000" />
+      <workItem from="1542214119978" duration="17704000" />
+      <workItem from="1542317080216" duration="7696000" />
+      <workItem from="1542351024677" duration="36271000" />
+      <workItem from="1542443872176" duration="25916000" />
+      <workItem from="1542548872653" duration="22296000" />
+      <workItem from="1542975008644" duration="93000" />
+      <workItem from="1542975510410" duration="69000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="Mocha_RUN - 2018.11.18 at 17h 30m 55s.xml">
+      <configuration name="Mocha RUN" configurationId="mocha-javascript-test-runner" />
+    </history-entry>
+    <history-entry file="Mocha_RUN - 2018.11.18 at 17h 31m 10s.xml">
+      <configuration name="Mocha RUN" configurationId="mocha-javascript-test-runner" />
+    </history-entry>
+    <history-entry file="Mocha_RUN - 2018.11.18 at 17h 31m 20s.xml">
+      <configuration name="Mocha RUN" configurationId="mocha-javascript-test-runner" />
+    </history-entry>
+    <history-entry file="Mocha_RUN - 2018.11.18 at 17h 31m 57s.xml">
+      <configuration name="Mocha RUN" configurationId="mocha-javascript-test-runner" />
+    </history-entry>
+    <history-entry file="Mocha_RUN - 2018.11.18 at 17h 32m 20s.xml">
+      <configuration name="Mocha RUN" configurationId="mocha-javascript-test-runner" />
+    </history-entry>
+    <history-entry file="Mocha_RUN - 2018.11.18 at 17h 32m 34s.xml">
+      <configuration name="Mocha RUN" configurationId="mocha-javascript-test-runner" />
+    </history-entry>
+    <history-entry file="Mocha_RUN - 2018.11.18 at 17h 34m 21s.xml">
+      <configuration name="Mocha RUN" configurationId="mocha-javascript-test-runner" />
+    </history-entry>
+    <history-entry file="Mocha_RUN - 2018.11.18 at 17h 35m 55s.xml">
+      <configuration name="Mocha RUN" configurationId="mocha-javascript-test-runner" />
+    </history-entry>
+    <history-entry file="Mocha_RUN - 2018.11.18 at 17h 36m 20s.xml">
+      <configuration name="Mocha RUN" configurationId="mocha-javascript-test-runner" />
+    </history-entry>
+    <history-entry file="Mocha_RUN - 2018.11.18 at 17h 38m 14s.xml">
+      <configuration name="Mocha RUN" configurationId="mocha-javascript-test-runner" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="133062000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1295" height="695" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.17011128" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.25266904" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.3469751" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+    <layout-to-restore>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.17011128" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.5391459" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.104982205" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/../UnitTest/Exercise/test/p02. Even Or Odd.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-102" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../OBJECT COMPOSITION/Exercise/p02. Construction Crew.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../OBJECT COMPOSITION/Exercise/p01 Array.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../OBJECT COMPOSITION/Exercise/p03. Car Factory.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../OBJECT COMPOSITION/Exercise/p04. Extensible Object.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../OBJECT COMPOSITION/Exercise/p05. String extension.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-657" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../OBJECT COMPOSITION/Exercise/p06. Sorted List.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../OBJECT COMPOSITION/Exercise/p07. DOM Highlighter.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Class PROTOTYPE CHAIN/04. Elemelons.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="88" column="52" selection-start-line="88" selection-start-column="52" selection-end-line="88" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/01. Holiday Destinations.js" />
+    <entry file="file://$PROJECT_DIR$/01 exercise/01. Sticky Note.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="295">
+          <caret line="95" column="23" selection-end-line="100" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/01 exercise/01. Holiday Destination.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="295">
+          <caret line="49" column="27" selection-end-line="59" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Roaming/npm/node_modules/chai/lib/chai/interface/assert.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="96">
+          <caret line="136" column="15" selection-start-line="136" selection-start-column="15" selection-end-line="136" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/02.HolidayPackage.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="816">
+          <caret line="48" column="2" lean-forward="true" selection-start-line="48" selection-start-column="2" selection-end-line="48" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/03.Vacationer.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-start-column="3" selection-end-line="106" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/03. BookCollection.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-458">
+          <caret line="80" column="8" lean-forward="true" selection-end-line="114" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/04. exercise/04. MakeReservation.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="45" column="31" selection-start-line="45" selection-start-column="20" selection-end-line="45" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/04. exercise/04. MakeReservation.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="361">
+          <caret line="54" column="49" selection-start-line="54" selection-start-column="49" selection-end-line="54" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/04. exercise/04. Online Shop.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="76" column="21" selection-start-line="76" selection-start-column="9" selection-end-line="76" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/04. exercise/04. Online Shop.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-start-column="3" selection-end-line="57" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/01 exercise/01. Bus Route.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="132" column="5" lean-forward="true" selection-start-line="107" selection-start-column="4" selection-end-line="132" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/02. Subscription Card.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="58" selection-end-line="174" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/03. Line Manager.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="42" column="5" lean-forward="true" selection-start-line="42" selection-start-column="5" selection-end-line="42" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/01 exercise/01. Restaurant Bill.js" />
+    <entry file="file://$PROJECT_DIR$/01 exercise/01. Restaurant Bill.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="147">
+          <caret line="49" column="4" selection-start-line="49" selection-start-column="4" selection-end-line="68" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/02.  Calculator Test.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="30" lean-forward="true" selection-start-line="3" selection-start-column="30" selection-end-line="3" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/02. Payment Package.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="305">
+          <caret line="117" column="10" selection-end-line="120" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/04. exercise/04. Payment Manager.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="310">
+          <caret line="30" column="33" selection-start-line="30" selection-start-column="27" selection-end-line="30" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/04. exercise/04. Payment Manager.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="160">
+          <caret line="8" column="38" selection-start-line="8" selection-start-column="38" selection-end-line="8" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/03. Payment Processor.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="44" column="20" lean-forward="true" selection-start-line="44" selection-start-column="20" selection-end-line="44" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/01 exercise/01. Sort Table.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="294">
+          <caret line="97" column="5" selection-start-line="97" selection-start-column="5" selection-end-line="97" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/Rar$DIa4284.38342/test.012.in.js" />
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/Rar$DIa4284.9140/solution.js" />
+    <entry file="file://$PROJECT_DIR$/03. Repository.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="480">
+          <caret line="74" selection-start-line="74" selection-end-line="74" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/01 exercise/01. Form Acceptance.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/Rar$DIa8748.12776/app.js" />
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/Rar$DIa8748.14841/styles.css" />
+    <entry file="file://$USER_HOME$/Desktop/01. Form Acceptance/Skeleton/index.html" />
+    <entry file="file://$USER_HOME$/Desktop/01. Form Acceptance/Skeleton/app.js" />
+    <entry file="file://$PROJECT_DIR$/02. Softunify.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="90" column="40" selection-start-column="3" selection-end-line="146" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/01 exercise/stickyNote.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-start-column="3" selection-end-line="19" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Desktop/04. Real Estate Agency_Ресурси/Skeleton/app.js" />
+    <entry file="file://$USER_HOME$/Desktop/04. Real Estate Agency_Ресурси/Skeleton/index.html" />
+    <entry file="file://$PROJECT_DIR$/01 exercise/app.html" />
+    <entry file="file://$PROJECT_DIR$/01 exercise/holidayDestination.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/03. Vacation.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="9" lean-forward="true" selection-start-line="11" selection-start-column="9" selection-end-line="11" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/04. exercise/04. Public Transport.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="177">
+          <caret line="29" column="41" lean-forward="true" selection-start-line="29" selection-start-column="41" selection-end-line="29" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/01 exercise/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="20" column="88" selection-start-line="20" selection-start-column="88" selection-end-line="20" selection-end-column="88" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/01 exercise/demo.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="13" selection-start-line="1" selection-start-column="13" selection-end-line="1" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/04. exercise/04. Public Transport.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="43" column="51" selection-start-line="43" selection-start-column="27" selection-end-line="43" selection-end-column="51" />
+          <folding>
+            <element signature="n#!!block;n#addVehicle#0;n#PublicTransportTable#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/01 exercise/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="384">
+          <caret line="35" column="57" selection-start-line="35" selection-start-column="57" selection-end-line="35" selection-end-column="57" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
